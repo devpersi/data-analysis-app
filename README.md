@@ -1,9 +1,3 @@
-![Ionianlogo](https://github.com/kostasafe/data-analysis-app/assets/22775121/ff493346-d82f-4f3a-9e9c-d6d388a65c7c) 
-
-## IONIAN UNIVERSITY - DEPARTMENT OF INFORMATICS
-
-
-
 # Data Analysis Application
 This Streamlit-based application provides a comprehensive data analysis tool for performing various classification and clustering algorithms on datasets. It supports CSV and Excel file uploads and delivers intuitive visualizations and performance metrics for machine learning models.</br>
 
